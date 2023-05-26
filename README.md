@@ -33,4 +33,4 @@ ___
 * [Чек-лист](https://github.com/vrsibir077/russian-travel/blob/main/checklist-3.pdf)
 ___
 ### Ссылка на сайт:
-https://github.com/vrsibir077/russian-travel
+https://vrsibir077.github.io/russian-travel
