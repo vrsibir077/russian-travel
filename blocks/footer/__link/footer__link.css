@@ -1,16 +1,16 @@
 .footer__link {
-	color: #ffffff;
-	text-decoration: none;
-	margin-right: 18px;
-	transition-duration: 0.5s;
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 18px;
+  transition-duration: 0.5s;
 }
 
 .footer__link:hover {
-	opacity: 0.8;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 505px) {
-	.footer__link {
-		margin-left: 16px;
-	}
+  .footer__link {
+    margin-left: 16px;
+  }
 }
